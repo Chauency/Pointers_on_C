@@ -18,7 +18,7 @@ long factorial(int n)
 
 int main()
 {
-	int n = 10,resutl = 0;
+	int n = 10,result = 0;
 	result = factorial(n);
 	printf("%d\n",result);
     return 0;
